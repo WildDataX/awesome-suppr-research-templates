@@ -1,0 +1,22 @@
+English,Chinese,Notes
+randomized controlled trial,随机对照试验,通常缩写为 RCT
+double-blind,双盲,研究者和受试者均不知分组
+placebo-controlled,安慰剂对照,注意不要译成无治疗对照
+primary endpoint,主要终点,也可译为主要结局指标
+secondary endpoint,次要终点,注意与探索性终点区分
+adverse event,不良事件,缩写 AE
+serious adverse event,严重不良事件,缩写 SAE
+intention-to-treat population,意向治疗人群,缩写 ITT
+per-protocol population,符合方案人群,缩写 PP
+hazard ratio,风险比,常用于生存分析
+confidence interval,置信区间,常见为 95% CI
+non-inferiority,非劣效,注意试验设计背景
+superiority,优效,与非劣效不同
+eligibility criteria,入选资格标准,包含纳入和排除标准
+inclusion criteria,纳入标准,
+exclusion criteria,排除标准,
+baseline characteristics,基线特征,
+follow-up,随访,既可作名词也可作动词
+loss to follow-up,失访,
+protocol deviation,方案偏离,
+subgroup analysis,亚组分析,警惕过度解读

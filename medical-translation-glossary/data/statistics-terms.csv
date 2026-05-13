@@ -1,0 +1,20 @@
+English,Chinese,Notes
+odds ratio,比值比,缩写 OR
+risk ratio,风险比,缩写 RR
+relative risk,相对风险,也常写 RR
+absolute risk reduction,绝对风险降低,缩写 ARR
+number needed to treat,需治疗人数,缩写 NNT
+p value,P 值,注意大小写和阈值
+statistical significance,统计学显著性,不等于临床意义
+clinical significance,临床意义,需结合效应量
+multivariable regression,多变量回归,不是多元回归的唯一表达
+confounder,混杂因素,
+adjusted model,校正模型,说明校正了哪些变量
+sensitivity analysis,敏感性分析,
+missing data,缺失数据,
+imputation,插补,用于处理缺失值
+meta-analysis,荟萃分析,
+heterogeneity,异质性,常见指标 I2
+publication bias,发表偏倚,
+forest plot,森林图,
+funnel plot,漏斗图,

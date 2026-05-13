@@ -1,0 +1,31 @@
+{
+  "name": "Awesome Suppr Research Templates",
+  "homepage": "https://suppr.wilddata.cn/",
+  "updated_at": "2026-05-13",
+  "packs": [
+    {
+      "id": "literature-review-prompts",
+      "title": "文献综述 Prompt 包",
+      "path": "literature-review-prompts/",
+      "download": "downloads/suppr-literature-review-prompts.zip"
+    },
+    {
+      "id": "medical-translation-glossary",
+      "title": "医学论文翻译术语表",
+      "path": "medical-translation-glossary/",
+      "download": "downloads/suppr-medical-translation-glossary.zip"
+    },
+    {
+      "id": "zotero-research-workflow",
+      "title": "Zotero 科研工作流模板",
+      "path": "zotero-research-workflow/",
+      "download": "downloads/suppr-zotero-research-workflow.zip"
+    },
+    {
+      "id": "research-topic-planner",
+      "title": "科研选题与研究问题表",
+      "path": "research-topic-planner/",
+      "download": "downloads/suppr-research-topic-planner.zip"
+    }
+  ]
+}
