@@ -20,3 +20,36 @@ follow-up,随访,既可作名词也可作动词
 loss to follow-up,失访,
 protocol deviation,方案偏离,
 subgroup analysis,亚组分析,警惕过度解读
+exploratory endpoint,探索性终点,通常不作为主要结论依据
+composite endpoint,复合终点,需说明包含哪些事件
+surrogate endpoint,替代终点,不等同于临床终点
+clinical endpoint,临床终点,与替代终点区分
+major adverse cardiovascular events,主要不良心血管事件,常缩写为 MACE
+all-cause mortality,全因死亡率,
+cardiovascular mortality,心血管死亡率,
+disease-free survival,无病生存期,缩写 DFS
+progression-free survival,无进展生存期,缩写 PFS
+overall survival,总生存期,缩写 OS
+time to event,事件发生时间,常用于生存分析
+interim analysis,期中分析,注意 alpha 消耗和停止规则
+data monitoring committee,数据监查委员会,也称 DMC
+randomization sequence,随机序列,
+allocation concealment,分配隐藏,偏倚风险评估重点
+blinded outcome assessment,盲法结局评估,
+open-label trial,开放标签试验,
+crossover trial,交叉试验,
+cluster randomized trial,整群随机试验,
+pragmatic trial,实用性临床试验,
+real-world evidence,真实世界证据,缩写 RWE
+real-world data,真实世界数据,缩写 RWD
+standard of care,标准治疗,缩写 SOC
+treatment arm,治疗组,
+control arm,对照组,
+dose escalation,剂量递增,
+dose-limiting toxicity,剂量限制性毒性,缩写 DLT
+maximum tolerated dose,最大耐受剂量,缩写 MTD
+objective response rate,客观缓解率,缩写 ORR
+complete response,完全缓解,缩写 CR
+partial response,部分缓解,缩写 PR
+stable disease,疾病稳定,缩写 SD
+progressive disease,疾病进展,缩写 PD

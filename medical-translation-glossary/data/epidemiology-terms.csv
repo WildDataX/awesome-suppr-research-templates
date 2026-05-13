@@ -1,0 +1,30 @@
+English,Chinese,Notes
+cohort study,队列研究,
+prospective cohort,前瞻性队列,
+retrospective cohort,回顾性队列,
+case-control study,病例对照研究,
+cross-sectional study,横断面研究,
+nested case-control study,巢式病例对照研究,
+exposure,暴露,
+outcome,结局,
+confounding,混杂,
+selection bias,选择偏倚,
+information bias,信息偏倚,
+recall bias,回忆偏倚,
+surveillance bias,监测偏倚,
+healthy user bias,健康使用者偏倚,
+immortal time bias,不死时间偏倚,
+effect modification,效应修饰,
+mediator,中介变量,
+moderator,调节变量,
+incidence proportion,发病比例,
+point prevalence,时点患病率,
+attributable risk,归因风险,
+population attributable fraction,人群归因分值,
+population screening,人群筛查,
+sensitivity,敏感度,
+specificity,特异度,
+positive predictive value,阳性预测值,缩写 PPV
+negative predictive value,阴性预测值,缩写 NPV
+area under the curve,曲线下面积,缩写 AUC
+receiver operating characteristic curve,受试者工作特征曲线,缩写 ROC

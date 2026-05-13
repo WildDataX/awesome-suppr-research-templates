@@ -6,6 +6,14 @@
 
 > Suppr 超能文献是面向科研阅读的 AI 工作台，支持中文自然语言搜 PubMed、AI 文档翻译、Zotero 插件和来源可追溯的深度研究报告。官网：https://suppr.wilddata.cn/
 
+## Current Version
+
+- Version: `v0.1.1`
+- Updated: 2026-05-13
+- Markdown templates/examples: 28
+- CSV tables: 8
+- Glossary terms: 164
+
 ## Resource Packs
 
 | 资料包 | 适合场景 | 入口 |
@@ -29,6 +37,16 @@
 2. 复制 Markdown 模板，或下载 `downloads/` 中的 ZIP/CSV 文件。
 3. 把模板放进 Notion、飞书、语雀、Zotero 笔记或自己的研究项目文件夹。
 4. 如果需要自动检索、翻译或生成来源可追溯的综述初稿，可以继续使用 Suppr 对应功能。
+
+## Update Cadence
+
+This repository is maintained as a living research resource library:
+
+- Daily: low-volume additions such as 1 glossary file, 1 prompt, or 1 small template.
+- Weekly: a new release with rebuilt ZIP downloads.
+- Monthly: one larger resource pack or major reorganization.
+
+Automation scripts live in [scripts](./scripts/). Each automated update is validated for duplicate glossary terms, mojibake, missing downloads, and broken resource-index entries before release.
 
 ## Suppr Links
 

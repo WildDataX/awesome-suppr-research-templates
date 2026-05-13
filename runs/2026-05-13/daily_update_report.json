@@ -1,0 +1,32 @@
+[
+  {
+    "id": "daily-glossary-imaging-terms",
+    "type": "glossary",
+    "title": "Add medical imaging terms",
+    "target": "medical-translation-glossary/data/imaging-terms.csv",
+    "status": "done",
+    "completed_at": "2026-05-13",
+    "result": "created",
+    "path": "medical-translation-glossary/data/imaging-terms.csv"
+  },
+  {
+    "id": "daily-prompt-guideline-summary",
+    "type": "prompt",
+    "title": "Add clinical guideline summary prompt",
+    "target": "literature-review-prompts/prompts/guideline-summary.md",
+    "status": "done",
+    "completed_at": "2026-05-13",
+    "result": "created",
+    "path": "literature-review-prompts/prompts/guideline-summary.md"
+  },
+  {
+    "id": "daily-template-manuscript-outline",
+    "type": "template",
+    "title": "Add manuscript outline template",
+    "target": "research-topic-planner/templates/manuscript-outline.md",
+    "status": "done",
+    "completed_at": "2026-05-13",
+    "result": "created",
+    "path": "research-topic-planner/templates/manuscript-outline.md"
+  }
+]

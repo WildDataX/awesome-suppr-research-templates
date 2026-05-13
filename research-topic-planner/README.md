@@ -10,6 +10,7 @@
 | [templates/research-question-table.csv](./templates/research-question-table.csv) | 选题对比表 |
 | [templates/literature-search-log.csv](./templates/literature-search-log.csv) | 文献检索记录表 |
 | [templates/evidence-gap-map.md](./templates/evidence-gap-map.md) | 研究空白地图 |
+| [templates/manuscript-outline.md](./templates/manuscript-outline.md) | 医学论文大纲模板 |
 
 ## Recommended Workflow
 

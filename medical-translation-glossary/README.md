@@ -8,6 +8,9 @@
 | --- | --- |
 | [data/clinical-trial-terms.csv](./data/clinical-trial-terms.csv) | 临床试验常用术语 |
 | [data/statistics-terms.csv](./data/statistics-terms.csv) | 统计学和方法学术语 |
+| [data/epidemiology-terms.csv](./data/epidemiology-terms.csv) | 流行病学术语 |
+| [data/systematic-review-terms.csv](./data/systematic-review-terms.csv) | 系统综述和 Meta 分析术语 |
+| [data/imaging-terms.csv](./data/imaging-terms.csv) | 医学影像术语 |
 | [translation-checklist.md](./translation-checklist.md) | AI 翻译后校对清单 |
 | [paper-sentence-patterns.md](./paper-sentence-patterns.md) | 医学论文常见句式 |
 

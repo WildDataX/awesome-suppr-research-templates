@@ -1,0 +1,53 @@
+{
+  "daily": [
+    {
+      "id": "daily-glossary-imaging-terms",
+      "type": "glossary",
+      "title": "Add medical imaging terms",
+      "target": "medical-translation-glossary/data/imaging-terms.csv",
+      "status": "done",
+      "completed_at": "2026-05-13"
+    },
+    {
+      "id": "daily-prompt-guideline-summary",
+      "type": "prompt",
+      "title": "Add clinical guideline summary prompt",
+      "target": "literature-review-prompts/prompts/guideline-summary.md",
+      "status": "done",
+      "completed_at": "2026-05-13"
+    },
+    {
+      "id": "daily-template-manuscript-outline",
+      "type": "template",
+      "title": "Add manuscript outline template",
+      "target": "research-topic-planner/templates/manuscript-outline.md",
+      "status": "done",
+      "completed_at": "2026-05-13"
+    }
+  ],
+  "weekly": [
+    {
+      "id": "weekly-example-public-health",
+      "type": "example",
+      "title": "Add public health literature review example",
+      "target": "literature-review-prompts/examples/public-health-screening-review.md",
+      "status": "pending"
+    },
+    {
+      "id": "weekly-zotero-systematic-review-workflow",
+      "type": "workflow",
+      "title": "Add Zotero systematic review workflow",
+      "target": "zotero-research-workflow/templates/systematic-review-workflow.md",
+      "status": "pending"
+    }
+  ],
+  "monthly": [
+    {
+      "id": "monthly-pack-academic-writing",
+      "type": "resource_pack",
+      "title": "Add academic writing templates pack",
+      "target": "academic-writing-templates/",
+      "status": "pending"
+    }
+  ]
+}

@@ -1,7 +1,13 @@
 {
   "name": "Awesome Suppr Research Templates",
   "homepage": "https://suppr.wilddata.cn/",
+  "version": "v0.1.1",
   "updated_at": "2026-05-13",
+  "stats": {
+    "markdown_files": 28,
+    "csv_files": 8,
+    "glossary_terms": 164
+  },
   "packs": [
     {
       "id": "literature-review-prompts",

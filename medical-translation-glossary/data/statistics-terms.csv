@@ -18,3 +18,34 @@ heterogeneity,异质性,常见指标 I2
 publication bias,发表偏倚,
 forest plot,森林图,
 funnel plot,漏斗图,
+standard deviation,标准差,缩写 SD
+standard error,标准误,缩写 SE
+interquartile range,四分位距,缩写 IQR
+median,中位数,
+mean,均值,
+incidence rate,发病率,需注意分母和时间单位
+prevalence,患病率,
+person-years,人年,队列研究常用单位
+Kaplan-Meier curve,Kaplan-Meier 曲线,也称 K-M 曲线
+Cox proportional hazards model,Cox 比例风险模型,
+log-rank test,log-rank 检验,
+propensity score matching,倾向评分匹配,缩写 PSM
+inverse probability weighting,逆概率加权,缩写 IPW
+instrumental variable,工具变量,
+effect size,效应量,
+minimal clinically important difference,最小临床重要差异,缩写 MCID
+Bayesian analysis,贝叶斯分析,
+frequentist analysis,频率学派分析,
+multiple comparison,多重比较,
+false discovery rate,错误发现率,缩写 FDR
+Bonferroni correction,Bonferroni 校正,
+subgroup effect,亚组效应,
+interaction test,交互作用检验,
+post hoc analysis,事后分析,
+protocol-specified analysis,方案预设分析,
+underpowered,统计效能不足,
+sample size calculation,样本量估算,
+power,统计效能,
+alpha level,显著性水平,
+confidence level,置信水平,
+prediction interval,预测区间,

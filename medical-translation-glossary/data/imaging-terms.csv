@@ -1,0 +1,9 @@
+English,Chinese,Notes
+computed tomography,计算机断层扫描,缩写 CT
+magnetic resonance imaging,磁共振成像,缩写 MRI
+ultrasound,超声,
+contrast-enhanced imaging,增强成像,
+radiomics,影像组学,
+lesion segmentation,病灶分割,
+diagnostic sensitivity,诊断敏感度,影像诊断中常用
+diagnostic specificity,诊断特异度,影像诊断中常用

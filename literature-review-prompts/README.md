@@ -15,7 +15,14 @@
 | [prompts/literature-review.md](./prompts/literature-review.md) | 从研究主题到综述大纲 |
 | [prompts/pubmed-search.md](./prompts/pubmed-search.md) | 中文问题转 PubMed 检索策略 |
 | [prompts/source-backed-summary.md](./prompts/source-backed-summary.md) | 单篇/多篇论文结构化摘要 |
+| [prompts/systematic-review.md](./prompts/systematic-review.md) | 系统综述方案设计 |
+| [prompts/meta-analysis-extraction.md](./prompts/meta-analysis-extraction.md) | Meta 分析数据提取 |
+| [prompts/risk-of-bias-rct.md](./prompts/risk-of-bias-rct.md) | RCT 偏倚风险评估 |
+| [prompts/peer-review-response.md](./prompts/peer-review-response.md) | 审稿意见回复草稿 |
+| [prompts/research-gap-analysis.md](./prompts/research-gap-analysis.md) | 研究空白分析 |
 | [examples/medical-literature-review-example.md](./examples/medical-literature-review-example.md) | 示例工作流 |
+| [examples/diabetes-cardiovascular-review.md](./examples/diabetes-cardiovascular-review.md) | 糖尿病心血管结局综述示例 |
+| [examples/oncology-immunotherapy-review.md](./examples/oncology-immunotherapy-review.md) | 肿瘤免疫治疗综述示例 |
 
 ## Recommended Workflow
 
