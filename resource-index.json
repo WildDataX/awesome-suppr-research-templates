@@ -1,11 +1,11 @@
 {
   "name": "Awesome Suppr Research Templates",
   "homepage": "https://suppr.wilddata.cn/",
-  "version": "v0.1.1",
-  "updated_at": "2026-05-13",
+  "version": "v0.1.2",
+  "updated_at": "2026-05-14",
   "stats": {
-    "markdown_files": 28,
-    "csv_files": 8,
+    "markdown_files": 35,
+    "csv_files": 9,
     "glossary_terms": 164
   },
   "packs": [
@@ -32,6 +32,12 @@
       "title": "科研选题与研究问题表",
       "path": "research-topic-planner/",
       "download": "downloads/suppr-research-topic-planner.zip"
+    },
+    {
+      "id": "academic-writing-templates",
+      "title": "学术写作模板包",
+      "path": "academic-writing-templates/",
+      "download": "downloads/suppr-academic-writing-templates.zip"
     }
   ]
 }

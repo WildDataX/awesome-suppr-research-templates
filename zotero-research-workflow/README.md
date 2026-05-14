@@ -12,6 +12,7 @@ Suppr Zotero 插件：https://github.com/WildDataX/suppr-zotero-plugin
 | [templates/reading-note-template.md](./templates/reading-note-template.md) | 单篇论文阅读笔记 |
 | [templates/literature-matrix.csv](./templates/literature-matrix.csv) | 文献证据矩阵 |
 | [templates/zotero-suppr-workflow.md](./templates/zotero-suppr-workflow.md) | Zotero + Suppr 工作流 |
+| [templates/systematic-review-workflow.md](./templates/systematic-review-workflow.md) | 系统综述筛选工作流 |
 
 ## Recommended Workflow
 

@@ -11,6 +11,7 @@ PACKS = {
     "medical-translation-glossary": "suppr-medical-translation-glossary.zip",
     "research-topic-planner": "suppr-research-topic-planner.zip",
     "zotero-research-workflow": "suppr-zotero-research-workflow.zip",
+    "academic-writing-templates": "suppr-academic-writing-templates.zip",
 }
 
 

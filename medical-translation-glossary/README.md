@@ -16,7 +16,7 @@
 
 ## Recommended Workflow
 
-1. 先用 Suppr 或其他工具翻译 PDF/Word/PPT 文档。
+1. 先用 Suppr 或其他工具翻译 PDF、Word、PPT 文档。
 2. 用术语表统一关键术语。
 3. 用 checklist 检查药名、剂量、缩写、统计指标和否定表达。
 4. 对结论、指南建议和临床决策相关段落进行人工复核。

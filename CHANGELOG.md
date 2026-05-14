@@ -1,5 +1,23 @@
 # Changelog
 
+## v0.1.2 - 2026-05-14
+
+Content quality and writing workflow update.
+
+Added:
+
+- Added the Academic Writing Templates pack.
+- Added structured abstract, CARS introduction, discussion/limitations, cover letter, peer-review response, and AI writing trace checklist templates.
+- Added a claim-evidence mapping CSV for checking whether manuscript claims are backed by tables, figures, DOI, or PMID evidence.
+- Added a new ZIP download for the academic writing pack.
+
+Improved:
+
+- Cleaned the main README and resource pack READMEs so public GitHub pages render readable Chinese instead of mojibake.
+- Updated resource-index metadata for the new pack.
+- Extended ZIP build automation to include the academic writing pack.
+- Repaired content validation so future updates fail early on mojibake, missing downloads, duplicate glossary terms, or broken resource-index entries.
+
 ## v0.1.1 - 2026-05-13
 
 Content expansion and automation foundation.

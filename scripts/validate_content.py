@@ -8,18 +8,30 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 TEXT_SUFFIXES = {".md", ".json", ".csv", ".txt"}
-MOJIBAKE_MARKERS = ["\ufffd", "鐡", "閿", "瓒呰兘", "銆愪"]
+MOJIBAKE_MARKERS = [
+    "\ufffd",
+    "锛",
+    "鐮",
+    "绉",
+    "璁",
+    "鎻",
+    "鈥",
+    "歨ttps",
+]
 
 
 def validate_text_files() -> list[str]:
     errors: list[str] = []
     for path in ROOT.rglob("*"):
-        if ".git" in path.parts or not path.is_file() or path.suffix.lower() not in TEXT_SUFFIXES:
+        if ".git" in path.parts or "runs" in path.parts or not path.is_file():
+            continue
+        if path.suffix.lower() not in TEXT_SUFFIXES:
             continue
         text = path.read_text(encoding="utf-8-sig")
         for marker in MOJIBAKE_MARKERS:
             if marker in text:
                 errors.append(f"{path.relative_to(ROOT)} contains mojibake marker {marker!r}")
+                break
     return errors
 
 
@@ -27,7 +39,7 @@ def validate_csv_files() -> list[str]:
     errors: list[str] = []
     seen_terms: dict[str, Path] = {}
     for path in ROOT.rglob("*.csv"):
-        if ".git" in path.parts:
+        if ".git" in path.parts or "runs" in path.parts:
             continue
         with path.open("r", encoding="utf-8-sig", newline="") as handle:
             rows = list(csv.DictReader(handle))

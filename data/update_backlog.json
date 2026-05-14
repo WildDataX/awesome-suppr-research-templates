@@ -47,7 +47,8 @@
       "type": "resource_pack",
       "title": "Add academic writing templates pack",
       "target": "academic-writing-templates/",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-05-14"
     }
   ]
 }
