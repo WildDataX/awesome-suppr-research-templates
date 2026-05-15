@@ -1,26 +1,23 @@
-# v0.1.2 - Academic Writing Templates
+# v0.1.2 - Weekly Template Additions
 
-This release adds a new academic writing resource pack for researchers who already have literature and results, but need a cleaner path from evidence to manuscript structure.
+This weekly release expands the Suppr template library with one new literature review example and one new Zotero workflow template, plus refreshed downloadable ZIP assets for the affected packs.
 
 ## Added
 
-- `academic-writing-templates/`
-- Structured abstract template
-- CARS introduction template
-- Discussion and limitations template
-- Journal cover letter template
-- Peer-review response letter template
-- AI writing trace checklist
-- Claim-evidence mapping CSV
-- `downloads/suppr-academic-writing-templates.zip`
+- `literature-review-prompts/examples/public-health-screening-review.md`
+- Public health screening literature review example with a PICO framing section and writing prompts
+- `zotero-research-workflow/templates/systematic-review-workflow.md`
+- Systematic review workflow for organizing imported records, screening stages, exclusion tags, extraction notes, and export steps in Zotero
 
-## Improved
+## Updated Assets
 
-- Rewrote public README content with readable Chinese.
-- Cleaned resource pack README pages.
-- Updated `resource-index.json` to include the new pack.
-- Updated ZIP build automation for the new pack.
-- Repaired validation to catch mojibake and missing release assets before publishing.
+- `downloads/suppr-literature-review-prompts.zip`
+- `downloads/suppr-zotero-research-workflow.zip`
+
+## Automation Notes
+
+- Updated `data/update_backlog.json` to mark this week's two selected items complete
+- Rebuilt downloads and re-ran content validation before publishing
 
 ## Suppr Links
 

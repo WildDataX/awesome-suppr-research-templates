@@ -31,14 +31,16 @@
       "type": "example",
       "title": "Add public health literature review example",
       "target": "literature-review-prompts/examples/public-health-screening-review.md",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-05-15"
     },
     {
       "id": "weekly-zotero-systematic-review-workflow",
       "type": "workflow",
       "title": "Add Zotero systematic review workflow",
       "target": "zotero-research-workflow/templates/systematic-review-workflow.md",
-      "status": "pending"
+      "status": "done",
+      "completed_at": "2026-05-15"
     }
   ],
   "monthly": [
